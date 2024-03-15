@@ -22,14 +22,7 @@ color: white;
 }
 </style>
 
-<script language=javascript>
-pin = '1234';
-pindigitado = prompt("Digite o PIN","")
-if (pin != pindigitado){
-alert('Acesso negado!');
-top.location.href='index.html';
-}
-</script>
+
 </head>
 
 <body>
@@ -39,33 +32,6 @@ top.location.href='index.html';
 
 <table border="0">
 
-<tr>
-
-<th><a href="https://sinalpublico.cc/player3/ch.php?canal=playboytv">
-<!--<th><a href="https://embedflix.net/tv/playboy-tv">-->
-<img src="https://megatvonline.github.io/logos/playboy-tv.png" height="135" width="240">
-<br>PLAYBOY</a></th>
-
-<th><a href="https://sinalpublico.cc/player3/ch.php?canal=sexprive">
-<img src="https://megatvonline.github.io/logos/sex-prive.png" height="135" width="240">
-<br>SEXPRIVÉ</a></th>
-
-</tr>
-<tr>
-<th>&nbsp</th>
-</tr>
-<tr>
-
-<th><a href="https://embedflix.net/tv/sextreme">
-<img src="https://megatvonline.github.io/logos/sextreme.png" height="135" width="240">
-<br>SEXTREME</a></th>
-
-<th><a href="https://sinalpublico.cc/player3/ch.php?canal=sexhot">
-<!--<th><a href="https://embedflix.net/tv/sex-hot-fhd">-->
-<img src="https://megatvonline.github.io/logos/sexy-hot.png" height="135" width="240">
-<br>SEXY HOT</a></th>
-
-<!--https://megatvonline.github.io/logos/venus.png-->
 
 </tr>
 
